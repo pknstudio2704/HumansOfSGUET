@@ -11,7 +11,7 @@ urllib3.disable_warnings()
 
 TELEBOT_TOKEN = "7179610090:AAE0uIGodQ-_ZeXnCkkHBe7Db7o4QHvBzI0"
 GROUP_ID = "sguethobo"
-URL = "https://uet.vnu.edu.vn/category/sinh-vien/hoc-phi-hoc-bong/feed"
+URL = "https://uet.vnu.edu.vn/category/sinh-vien/hoc-phi-hoc-bong"
 
 
 client = MongoClient("mongodb+srv://pknstudio2704:nguyenitdev2704@cluster1.oglll5m.mongodb.net/?retryWrites=true&w=majority")
